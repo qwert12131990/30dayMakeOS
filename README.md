@@ -85,3 +85,4 @@
 
 - [第29天：压缩与简单的应用程序](https://github.com/yourtion/30dayMakeOS/releases/tag/Day29)
 - [第30天：高级的应用程序](https://github.com/yourtion/30dayMakeOS/releases/tag/Day30)
+test
